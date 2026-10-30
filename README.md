@@ -57,6 +57,7 @@
 - [CapCut](https://capcut.com) — Mobile-first with AI features
 - [Adobe Premiere Pro](https://adobe.com/premiere) — Industry standard with AI tools
 - [DaVinci Resolve](https://blackmagicdesign.com/davinci) — Professional + free tier
+- [Karaoke Captions](https://karaokecaptions.com/) — On-device word-by-word video captions with transcript editing and MP4, SRT and VTT export.
 
 ---
 
